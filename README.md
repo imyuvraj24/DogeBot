@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/sTFc7j1xRJ0AAAAS/doge-dancing-doge.gif?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://c.tenor.com/sTFc7j1xRJ0AAAAS/doge-dancing-doge.gif?format=jpg&name=900x900" alt="YUVRAJ" width="170" />
 
 ## Doge Bot
 
@@ -9,10 +9,10 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/DGYUVRAJ"><img title="Author" src="https://img.shields.io/badge/Author-YUVRAJ-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="YUVRAJ" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 
@@ -40,12 +40,12 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/DGYUVRAJ/DogeBot/blob/master/session.json#L1)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/DGYUVRAJ/DogeBot.git
 🦄 cd DogeBot
 🦄 npm start
 ```
@@ -61,7 +61,7 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
+🦄 git clone https://github.com/DGYUVRAJ/DogeBot
 🦄 cd DogeBot
 🦄 ls
 🦄 rm -rf session.json
@@ -85,4 +85,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`YUVRAJ`](https://github.com/DGYUVRAJ)
